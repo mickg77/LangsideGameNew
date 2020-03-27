@@ -1,0 +1,19 @@
+#signup {
+  margin: 20px auto;
+  width: 50%;
+}
+
+#login {
+  margin: 20px auto;
+  width: 50%;
+}
+
+.card-header {
+  background-color: #999999;
+}
+
+#carouselExampleControls {
+  width: 25%;
+  margin: 20px auto;
+}
+
